@@ -1,0 +1,22 @@
+# Exclude Visual Studio cache files
+.vs/
+
+# Exclude build output
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Exclude NuGet Packages
+packages/
+
+# Exclude ReSharpener files
+*.resharper
+*.user
+
+# Exclude all .suo files
+*.suo
+
+# Exclude TEMP files
+*.[Tt]mp
+*.[Bb]ak
+*.[Ss]wp
